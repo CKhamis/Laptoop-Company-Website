@@ -1,0 +1,22 @@
+red{color:red;}
+orange{color:orange;}
+yellow{color:yellow}
+green{color:green}
+blue{color:blue;}
+purple{color:purple;}
+
+.side{background-color:green;}
+.box1{border:2px solid #000000;border-radius: 10px;height:70px;padding: 20px;margin:3px;background-color: #ffff99;box-shadow: 5px 5px 5px #999999;}
+
+#backButton{height:30px;}
+
+
+
+
+
+
+
+.box2 {font-size: 20px;
+font-family: sans-serif
+
+}
